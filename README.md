@@ -21,5 +21,5 @@ Learnings
 
 
 ## Links
-[Demo Video URL](MISSING)
+[Live URL](MISSING)
 [Repo URL](https://github.com/XtianHope/PWA-Text-Editor-Fun.git)
